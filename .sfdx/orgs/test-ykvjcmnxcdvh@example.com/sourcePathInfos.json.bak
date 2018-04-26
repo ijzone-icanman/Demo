@@ -32,14 +32,14 @@
     [
         "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1524730292292,
             "changeTime": 1524730292292,
-            "contentHash": "a81adfb38730e0617c926d6068400ef4b82f1bf2"
+            "contentHash": "a81adfb38730e0617c926d6068400ef4b82f1bf2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -90,16 +90,15 @@
     [
         "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
             "isDirectory": false,
-            "size": 37,
-            "modifiedTime": 1524726467804,
-            "changeTime": 1524726467804,
-            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 193,
+            "modifiedTime": 1524730701914,
+            "changeTime": 1524730701914,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "37d0de57822d8df34c1c9fa6810e941885fb540d"
         }
     ],
     [
@@ -210,159 +209,158 @@
     [
         "C:\\Users\\Brandon\\dev\\Demo",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1524726726472,
-            "changeTime": 1524726726472,
-            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 0,
+            "modifiedTime": 1524730342308,
+            "changeTime": 1524730342308,
             "isWorkspace": true,
-            "isArtifactRoot": false
+            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df"
         }
     ],
     [
         "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 590,
             "modifiedTime": 1524730292273,
             "changeTime": 1524730292273,
-            "contentHash": "b41534a05575c31fc03ea71f246aad89e44297c4"
+            "contentHash": "b41534a05575c31fc03ea71f246aad89e44297c4",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 308,
             "modifiedTime": 1524730292279,
             "changeTime": 1524730292279,
-            "contentHash": "5e9bb800f1e1cabf4f44502e9e0cee49fc303759"
+            "contentHash": "5e9bb800f1e1cabf4f44502e9e0cee49fc303759",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 905,
             "modifiedTime": 1524730292283,
             "changeTime": 1524730292283,
-            "contentHash": "70ac232fc6ec55f556b63eced2a820c2ba3194df"
+            "contentHash": "70ac232fc6ec55f556b63eced2a820c2ba3194df",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 17679,
             "modifiedTime": 1524730292306,
             "changeTime": 1524730292306,
-            "contentHash": "98dabb79dcd5dada37cd90e8b4991860403a345c"
+            "contentHash": "98dabb79dcd5dada37cd90e8b4991860403a345c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4623,
             "modifiedTime": 1524730292310,
             "changeTime": 1524730292310,
-            "contentHash": "1d8580a3be5e5c63fda634ac546ec78a5c7fdafd"
+            "contentHash": "1d8580a3be5e5c63fda634ac546ec78a5c7fdafd",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4961,
             "modifiedTime": 1524730292316,
             "changeTime": 1524730292316,
-            "contentHash": "517c20ce83b76ace1fe48c6c1a9f3b2dee1c0976"
+            "contentHash": "517c20ce83b76ace1fe48c6c1a9f3b2dee1c0976",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4623,
             "modifiedTime": 1524730292321,
             "changeTime": 1524730292321,
-            "contentHash": "1d8580a3be5e5c63fda634ac546ec78a5c7fdafd"
+            "contentHash": "1d8580a3be5e5c63fda634ac546ec78a5c7fdafd",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\flexipages",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\flexipages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1524730292271,
             "changeTime": 1524730292271,
-            "contentHash": "a1a96b41743564d0d68beaf118bef8b784942b87"
+            "contentHash": "a1a96b41743564d0d68beaf118bef8b784942b87",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\tabs",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1524730292277,
             "changeTime": 1524730292277,
-            "contentHash": "27e8f7b485188049a8ccb6bc0edc3694c6635ab6"
+            "contentHash": "27e8f7b485188049a8ccb6bc0edc3694c6635ab6",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\applications",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\applications",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1524730292281,
             "changeTime": 1524730292281,
-            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065"
+            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1524730292319,
             "changeTime": 1524730292319,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]

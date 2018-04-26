@@ -94,11 +94,11 @@
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 193,
-            "modifiedTime": 1524730701914,
-            "changeTime": 1524730701914,
+            "size": 198,
+            "modifiedTime": 1524731093966,
+            "changeTime": 1524731093966,
             "isWorkspace": false,
-            "contentHash": "37d0de57822d8df34c1c9fa6810e941885fb540d"
+            "contentHash": "6d01f71ec892e50e0cfc04d9c2fcadefa49ead74"
         }
     ],
     [
@@ -209,15 +209,15 @@
     [
         "C:\\Users\\Brandon\\dev\\Demo",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1524730342308,
             "changeTime": 1524730342308,
-            "isWorkspace": true,
-            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df"
+            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
