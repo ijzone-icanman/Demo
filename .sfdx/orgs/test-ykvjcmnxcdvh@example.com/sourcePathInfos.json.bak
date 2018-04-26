@@ -2,14 +2,14 @@
     [
         "C:\\Users\\Brandon\\dev\\Demo\\force-app",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1524726359818,
             "changeTime": 1524726359818,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1524726359818,
             "changeTime": 1524726359818,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,29 +32,27 @@
     [
         "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1524726359818,
-            "changeTime": 1524726359818,
-            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1524730292292,
+            "changeTime": 1524730292292,
+            "contentHash": "a81adfb38730e0617c926d6068400ef4b82f1bf2"
         }
     ],
     [
         "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1524726467802,
             "changeTime": 1524726467802,
             "contentHash": "e52c854d5631eec7468ba4727b4c77eb745f2965",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,14 +60,14 @@
     [
         "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\aura\\Demo",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\aura\\Demo",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1524726467821,
             "changeTime": 1524726467821,
             "contentHash": "43ddf5730caa5f429a02f9794295fa86dc177f7a",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -77,14 +75,14 @@
     [
         "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1524726467820,
             "changeTime": 1524726467820,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -92,14 +90,14 @@
     [
         "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 37,
             "modifiedTime": 1524726467804,
             "changeTime": 1524726467804,
             "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -107,14 +105,14 @@
     [
         "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 236,
             "modifiedTime": 1524726467807,
             "changeTime": 1524726467807,
             "contentHash": "e1e968b3b1241b0b99f46111ddfbaf9b8727535e",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -122,14 +120,14 @@
     [
         "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 10,
             "modifiedTime": 1524726467813,
             "changeTime": 1524726467813,
             "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -137,14 +135,14 @@
     [
         "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1524726467822,
             "changeTime": 1524726467822,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -152,14 +150,14 @@
     [
         "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1524726467817,
             "changeTime": 1524726467817,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -167,14 +165,14 @@
     [
         "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1524726467809,
             "changeTime": 1524726467809,
             "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -182,14 +180,14 @@
     [
         "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1524726467811,
             "changeTime": 1524726467811,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -197,14 +195,14 @@
     [
         "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1524726467815,
             "changeTime": 1524726467815,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -212,16 +210,159 @@
     [
         "C:\\Users\\Brandon\\dev\\Demo",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Brandon\\dev\\Demo",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1524726726472,
             "changeTime": 1524726726472,
             "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 590,
+            "modifiedTime": 1524730292273,
+            "changeTime": 1524730292273,
+            "contentHash": "b41534a05575c31fc03ea71f246aad89e44297c4"
+        }
+    ],
+    [
+        "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 308,
+            "modifiedTime": 1524730292279,
+            "changeTime": 1524730292279,
+            "contentHash": "5e9bb800f1e1cabf4f44502e9e0cee49fc303759"
+        }
+    ],
+    [
+        "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 905,
+            "modifiedTime": 1524730292283,
+            "changeTime": 1524730292283,
+            "contentHash": "70ac232fc6ec55f556b63eced2a820c2ba3194df"
+        }
+    ],
+    [
+        "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17679,
+            "modifiedTime": 1524730292306,
+            "changeTime": 1524730292306,
+            "contentHash": "98dabb79dcd5dada37cd90e8b4991860403a345c"
+        }
+    ],
+    [
+        "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4623,
+            "modifiedTime": 1524730292310,
+            "changeTime": 1524730292310,
+            "contentHash": "1d8580a3be5e5c63fda634ac546ec78a5c7fdafd"
+        }
+    ],
+    [
+        "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4961,
+            "modifiedTime": 1524730292316,
+            "changeTime": 1524730292316,
+            "contentHash": "517c20ce83b76ace1fe48c6c1a9f3b2dee1c0976"
+        }
+    ],
+    [
+        "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4623,
+            "modifiedTime": 1524730292321,
+            "changeTime": 1524730292321,
+            "contentHash": "1d8580a3be5e5c63fda634ac546ec78a5c7fdafd"
+        }
+    ],
+    [
+        "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524730292271,
+            "changeTime": 1524730292271,
+            "contentHash": "a1a96b41743564d0d68beaf118bef8b784942b87"
+        }
+    ],
+    [
+        "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524730292277,
+            "changeTime": 1524730292277,
+            "contentHash": "27e8f7b485188049a8ccb6bc0edc3694c6635ab6"
+        }
+    ],
+    [
+        "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524730292281,
+            "changeTime": 1524730292281,
+            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065"
+        }
+    ],
+    [
+        "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Brandon\\dev\\Demo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524730292319,
+            "changeTime": 1524730292319,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
